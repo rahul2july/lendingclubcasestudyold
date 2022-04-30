@@ -42,7 +42,12 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@rahul2july] - feel free to contact me!
+
+Contributors
+-Rahul Gupta
+-Kanhaiya Choudhary
+
 
 
 <!-- Optional -->
