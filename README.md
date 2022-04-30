@@ -45,7 +45,7 @@ Give credit here.
 Created by [@rahul2july] - feel free to contact me!
 
 Contributors
--Rahul Gupta
+-Rahul Gupta \n
 -Kanhaiya Choudhary
 
 
